@@ -11,6 +11,8 @@ The simulated office network consists of:
 * Multiple end-user PCs across departmental VLANs
 * A centralized DHCP server connected directly to the router on a routed subnet
 
+  ![Topology Image](Topology/Small-Office-Network.png)
+
 ## VLAN and IP Addressing Scheme
 | VLAN ID | Department | Subnet | Default Gateway |
 | --- | --- | --- | --- |
