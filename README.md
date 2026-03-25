@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project simulates a small office enterprise network designed and implemented using Cisco Packet Tracer. The lab focuses on core CCNA routing, switching, and IP services concepts, including VLAN segmentation, inter-VLAN routing, and centralized DHCP.
+This project simulates a small office enterprise network designed and implemented using Cisco Packet Tracer. The lab focuses on core CCNA routing, switching, and IP services concepts, including VLAN segmentation, inter-VLAN routing, centralized DHCP, and ACLs.
 
 ## Network Topology
 
